@@ -45,3 +45,18 @@ password="mani"
 We can see quiz questions
 Answer questions and submit 
 Answers will be submitted.
+
+![image](https://user-images.githubusercontent.com/78011184/189715297-ff8a68e4-d500-4b16-99ab-117b0e03e851.png)
+![image](https://user-images.githubusercontent.com/78011184/189715475-0422af9c-416e-4ecf-8adc-100e1b41016d.png)
+
+on entering correct password:
+![image](https://user-images.githubusercontent.com/78011184/189715547-6418894f-a8ac-480b-9049-da0374d37c7e.png)
+
+On submitting form:
+![image](https://user-images.githubusercontent.com/78011184/189715599-3fe37822-d7f9-4436-8a1d-ee3283078fbe.png)
+
+In database:
+![image](https://user-images.githubusercontent.com/78011184/189715662-27a97c63-2e28-4109-a1a8-926046647ff2.png)
+
+
+
