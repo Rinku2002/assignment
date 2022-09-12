@@ -1,3 +1,4 @@
+
 Install xampp 
 After installing, start apache and mysql server
 goto 'http://localhost/phpmyadmin/'
@@ -26,6 +27,8 @@ Answers:
     createdAt	
     updatedAt	
 
+Open package.json of backend and install all dependencies
+Open package.json of assigment and install all dependencies
 
 open folder path in command prompt 
 Run 'cd backend' command
@@ -57,6 +60,5 @@ On submitting form:
 
 In database:
 ![image](https://user-images.githubusercontent.com/78011184/189715662-27a97c63-2e28-4109-a1a8-926046647ff2.png)
-
 
 
